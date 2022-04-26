@@ -1,6 +1,6 @@
 ## Welcome to Andy's GitHub Page
 
-I am just getting started, but this page will be used to demo some of my projects
+I am just getting started, but this page will be used to demo some of my personal projects around Data / ML / AI
 
 ### Markdown
 
